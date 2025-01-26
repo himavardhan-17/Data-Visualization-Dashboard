@@ -10,16 +10,5 @@ An interactive web application for data visualization. Users can upload datasets
 - **Export Options**: Save your visualizations in various formats for reporting and analysis.
 
 ## Demo
-[Insert link to live demo if available]
+(https://datavisuliaze.netlify.app/)
 
-## Getting Started
-
-### Prerequisites
-- Node.js (v14 or later)
-- npm or yarn
-- Git
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
